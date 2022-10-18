@@ -23,11 +23,6 @@ relationships abilities.
  [![vs-count]](#) [![in]](https://www.linkedin.com/in/liavbarsheshet/) [![website]](https://www.liavbarsheshet.com) [![git-follow]](https://github.com/liavbarsheshet) [![yt-channel]](https://www.youtube.com/channel/UC062OSnsFea6fqS70LNGk2A) 
 ---
 
-
-| [![git-stats]](#)|[![git-lang]](#) | 
-| :---        |    :----:   |
-
-
 [git-stats]: https://github-readme-stats.vercel.app/api?username=liavbarsheshet&show_icons=true&theme=vue-dark
 [git-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=liavbarsheshet&theme=vue-dark
 [git-follow]: https://img.shields.io/github/followers/liavbarsheshet?style=social&logoColor=535E72
