@@ -18,7 +18,7 @@ relationships abilities.
 - ⚡️ Fun fact: In my free time I remake video games music.
 
 
-![vs-count] ![git-follow] ![yt-channel]
+[![vs-count]](#) [![git-follow]](https://github.com/liavbarsheshet) [![yt-channel]](https://www.youtube.com/channel/UC062OSnsFea6fqS70LNGk2A)
 ---
 
 
