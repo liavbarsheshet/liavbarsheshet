@@ -24,7 +24,7 @@ relationships abilities.
 ---
 
 
-| ![git-stats]|![git-lang] | 
+| [![git-stats]](#)|[![git-lang]](#) | 
 | :---        |    :----:   |
 
 
