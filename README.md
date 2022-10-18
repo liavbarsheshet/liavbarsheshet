@@ -11,10 +11,10 @@ relationships abilities.
 - 🔭  Eager to learn new things.
 
 ###### BIO
-- ⚙️ I use daily:  ```JS```, ```Node.JS```,```Mongodb```, ```Express```, ```C++```, ```CSS```, ```HTML```, ```GIT```.
-- 💬 Ping me about design, idea, project etc.
+- ⚙️ I use daily:  ```JS```, ```Node.JS```,```MongoDB```, ```Express```, ```C++```, ```CSS```, ```HTML```, ```GIT```.
+- 💬 Ping me about design, ideas, projects, etc.
 - 🌐 Reach me: [Liav Barsheshet Portfolio](https://www.liavbarsheshet.com/#contact).
-- ⚡️ Fun fact: In my free time I remake video games music.
+- ⚡️ Fun fact: In my free time I remake video game music.
 
 ###### FAVORITE
 - 🚀 Hackathons, meetups & tech events.
