@@ -13,7 +13,7 @@ relationships abilities.
 - 🔭  Eager to learn new things.
 
 ###### BIO
-- ⚙️ I use daily:  ```TypeScript```, ```JS```, ```Node.JS```,```MongoDB```, ```Express```, ```React```, ```C++```, ```CSS```, ```HTML```, ```GIT```.
+- ⚙️ I use daily:  ```TypeScript```, ```JS```, ```Node.JS```, ```MongoDB```, ```Express```, ```React```, ```C++```, ```CSS```, ```HTML```, ```GIT```.
 - 💬 Ping me about design, ideas, projects, etc.
 - ⚡️ Fun fact: In my free time I remake video game music.
 
