@@ -8,7 +8,7 @@ relationships abilities.
 
 ###### NOW
 
-- 🎓 CS Student at the Technion.
+- 🎓 B.Sc. in Computer Science, Graduate of the Technion – Israel Institute of Technology.
 - 💻 Full stack freelancer.
 - 🔭  Eager to learn new things.
 
