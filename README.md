@@ -8,19 +8,12 @@ relationships abilities.
 
 ###### NOW
 
-- 🎓 B.Sc. in Computer Science, Graduate of the Technion – Israel Institute of Technology.
-- 💻 Full stack freelancer.
-- 🔭  Eager to learn new things.
-
-###### BIO
-- ⚙️ I use daily:  ```TypeScript```, ```JS```, ```Node.JS```, ```MongoDB```, ```Express```, ```React```, ```C++```, ```CSS```, ```HTML```, ```GIT```.
-- 💬 Ping me about design, ideas, projects, etc.
-- ⚡️ Fun fact: In my free time I remake video game music.
-
-###### FAVORITE
-- 🚀 Hackathons, meetups & tech events.
-- 📰 Reading & writing tech blogs whenever possible.
-
+- 💻 Full-stack developer, work with: JavaScript, Node.js, React, Express, C++, CSS, HTML, and Git daily.
+- 🎓 B.Sc. in Computer Science from the Technion – Israel Institute of Technology Graduate.
+- 🔭 Passionate about learning and innovation.
+- 🚀 Attending hackathons, meetups, and tech events.
+- 💬 Let’s connect to discuss design, innovative ideas, or exciting projects.
+- ⚡ I love recreating nostalgic video game music.
 
 [git-stats]: https://github-readme-stats.vercel.app/api?username=liavbarsheshet&show_icons=true&theme=vue-dark
 [git-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=liavbarsheshet&theme=vue-dark
