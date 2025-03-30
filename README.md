@@ -20,4 +20,4 @@ relationships abilities.
 [git-follow]: https://img.shields.io/github/followers/liavbarsheshet?style=social&logoColor=535E72
 [yt-channel]: https://img.shields.io/youtube/channel/subscribers/UC062OSnsFea6fqS70LNGk2A?style=social&logoColor=535E72
 [website]:https://img.shields.io/badge/Website-3b5998?style=social&logo=google-chrome&logoColor=535E72
-[in]: https://img.shields.io/badge/-LinkedIn-0e76a8?style=social&logo=Linkedin&logoColor=535E72
+[in]: https://img.shields.io/badge/-LinkedIn-0e76a8?style=social&logo=invision&logoColor=535E72
