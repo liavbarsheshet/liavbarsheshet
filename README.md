@@ -2,9 +2,7 @@
 
  [![in]](https://www.linkedin.com/in/liavbarsheshet/) [![website]](https://www.liavbarsheshet.com) [![git-follow]](https://github.com/liavbarsheshet) [![yt-channel]](https://www.youtube.com/channel/UC062OSnsFea6fqS70LNGk2A) 
 
-I'm a Computer Science student at the Technion. 
-Motivated, self-disciplined, autodidact, with great learning and interpersonal 
-relationships abilities.
+Software developer with expertise in full-stack development. Currently pursuing a full-time development role offering diverse and challenging opportunities.
 
 ###### NOW
 
